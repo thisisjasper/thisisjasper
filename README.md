@@ -14,9 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-I like to make stuff.
-
-[GameJolt Profile](https://gamejolt.com/@thisisjasper)
-
-Currently working on this game: [Stoneless](https://gamejolt.com/games/stonelessgame/826864)
